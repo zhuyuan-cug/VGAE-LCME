@@ -2,17 +2,17 @@
 VGAE-LCME is a VGAE algorithm-based method for predicting LncRNA and cancer metastasis events
 
 # Requirements
-python = 3.6
+- python = 3.6
 
-tensorflow==1.15.0
+- tensorflow==1.15.0
 
-numpy==1.19.5
+- numpy==1.19.5
 
-pandas ==0.25.3
+- pandas ==0.25.3
 
-scikit-learn==0.24.0
+- scikit-learn==0.24.0
 
-matplotlib == 3.2.1
+- matplotlib == 3.2.1
 
 # Usage
 In this GitHub project, we give a demo to show how VGAE-LCME works. 
