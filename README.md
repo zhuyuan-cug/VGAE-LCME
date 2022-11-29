@@ -27,4 +27,4 @@ In this GitHub project, we give a demo to show how VGAE-LCME works.
 
 Run Lnc-Event.py can obtain Lnc-cancer metastatic event associations result and ROC、PR curve.
 
-Run Lnc-CancerType.py can obtain Lnc-cancer-type associations result and ROC、PR curve.
+Run Lnc-CancerType.py can obtain Lnc-cancer type associations result and ROC、PR curve.
